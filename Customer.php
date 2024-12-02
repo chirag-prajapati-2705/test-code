@@ -2,6 +2,8 @@
 
 
 Class Customer{
+
+	
 	
     public $test = 'Public';
 
